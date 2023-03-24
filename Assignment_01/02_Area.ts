@@ -3,7 +3,6 @@ function AreaOfCircle(Pi : number, Rad : number) : number
     let Area : number = 0;
 
     Area = Pi * (Rad * Rad);
-    
     return Area;
 }
 
